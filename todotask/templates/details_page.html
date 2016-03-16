@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+
+{% block head_title %}{{ instance.tags }} | {{ block.super }}{% endblock head_title %}
+
+{% block content %}
+<div class='col-sm-6 col-sm-offset-3'>
+<h3>{{ tags }}</h3>
+
+<!--{{ instance.tags }}<br />-->
+{{ instance.bookmarks }}<br />
+<p><a href="/posts/" class="btn btn-primary" role="button">Cancel</a></p>
+<p><a href="{{ obj.get_absolute_url }}edit" class="btn btn-primary" role="button">Edit</a></p>
+<p><a href="{{ obj.get_absolute_url }}delete" class="btn btn-primary" role="button">Delete</a></p>
+
+</div>
+{% endblock content %}

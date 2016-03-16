@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"qu",
+				"queryset_list"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"c",
+				"conf"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"P",
+				"PostForm"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"Post",
+				"PostForm"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/shiv/Coding/todoApp/todotask/posts/views.py",
+		"/home/shiv/Coding/todoApp/todotask/templates/index.html",
+		"/home/shiv/Coding/todoApp/todotask/templates/form_page.html",
+		"/home/shiv/Coding/todoApp/todotask/templates/details_page.html",
+		"/home/shiv/Coding/todoApp/todotask/posts/forms.py",
+		"/home/shiv/Coding/todoApp/todotask/posts/models.py",
+		"/home/shiv/Coding/todoApp/todotask/posts/apps.py",
+		"/home/shiv/Coding/todoApp/todotask/posts/migrations/0001_initial.py",
+		"/home/shiv/Desktop/todo/todo-django-master/todo_django/templates/profile.html",
+		"/home/shiv/Coding/todoApp/todotask/posts/urls.py",
+		"/home/shiv/Coding/todoApp/todotask/templates/msg.html",
+		"/home/shiv/Coding/todoApp/todotask/templates/list_page.html",
+		"/home/shiv/Coding/todoApp/todotask/todotask/urls.py",
+		"/home/shiv/Coding/todoApp/todotask/posts/admin.py",
+		"/home/shiv/Coding/todoApp/todotask/todotask/settings.py",
+		"/home/shiv/Coding/todoApp/todotask/db.sqlite3",
+		"/home/shiv/Coding/DjangoCode/testDjango/posts/views.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/templates/base.html",
+		"/home/shiv/Coding/DjangoCode/testDjango/templates/post_form.html",
+		"/home/shiv/Coding/DjangoCode/testDjango/posts/urls.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/templates/index.html",
+		"/home/shiv/Coding/DjangoCode/testDjango/templates/post_details.html",
+		"/home/shiv/Coding/DjangoCode/testDjango/posts/models.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/posts/forms.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/testDjango/urls.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/posts/admin.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/testDjango/settings.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/post/admin.py",
+		"/home/shiv/Coding/DjangoCode/testDjango/post/models.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/shiv/Coding/todoApp/todotask/posts",
+			"/home/shiv/Coding/todoApp/todotask",
+			"/home/shiv/Coding/todoApp",
+			"",
+			"todotask",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj_list",
+			"tags",
+			"posts_post",
+			"title",
+			"bookmarks",
+			" posts_post.title",
+			"4",
+			"12",
+			" {{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "todoApp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

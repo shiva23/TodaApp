@@ -1,0 +1,22 @@
+{% extends "index.html" %}
+
+{% block content %}
+
+<div class='col-sm-6 col-sm-offset-3'>
+<h1>Tags and Booksmarks</h1>
+<form method="POST" action="">{% csrf_token %}
+	<br />
+
+	{{ form.as_p }}
+
+
+	<br />
+	<p><a href="/posts" class="btn btn-primary" role="button">Back</a></p>
+	<input type="submit" value=" Add/Update " class="btn btn-primary"></input>
+	<p><a href="/posts" class="btn btn-primary" role="button">Cancel</a></p>
+
+</form>	
+</div>
+{% endblock content %}
+
+
